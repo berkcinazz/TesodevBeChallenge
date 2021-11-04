@@ -10,8 +10,8 @@ namespace DataAccess.Concrete.EntityFramework
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseInMemoryDatabase("Tesodev");
-            //optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB; Database=Tesodev; Trusted_Connection = true");
+            //optionsBuilder.UseInMemoryDatabase("Tesodev");
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB; Database=Tesodev; Trusted_Connection = true");
         }
         public DbSet<Address> Addresses { get; set; }
         public DbSet<Customer> Customers { get; set; }

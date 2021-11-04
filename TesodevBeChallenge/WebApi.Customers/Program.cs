@@ -30,7 +30,7 @@ namespace WebApi.Customers
                  .ConfigureWebHostDefaults(webBuilder =>
                  {
                      webBuilder.UseStartup<Startup>();
-                     webBuilder.UseUrls("http://localhost:7001/");
+                     //webBuilder.UseUrls("http://localhost:7001/");
                  });
         }
     }
