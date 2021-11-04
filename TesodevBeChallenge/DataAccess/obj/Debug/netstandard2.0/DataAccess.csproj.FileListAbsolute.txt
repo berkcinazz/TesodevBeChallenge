@@ -1,0 +1,15 @@
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

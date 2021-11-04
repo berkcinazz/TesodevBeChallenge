@@ -1,0 +1,17 @@
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\BERK\Desktop\TesodevBeChallenge\TesodevBeChallenge\Business\obj\Debug\netstandard2.0\Business.pdb
